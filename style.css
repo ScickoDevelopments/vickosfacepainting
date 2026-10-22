@@ -395,6 +395,8 @@ img {
 
 .services-section h2 {
   color: #000;
+  -webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.32);
 }
 
 .themes-section {
@@ -404,6 +406,8 @@ img {
 .themes-section h2,
 .themes-section .section-heading p {
   color: #000;
+  -webkit-text-stroke: 0.4px rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.26);
 }
 
 .themes-grid {
@@ -681,6 +685,8 @@ img {
 .testimonials-section h2,
 .testimonials-section p {
   color: #000;
+  -webkit-text-stroke: 0.4px rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.28);
 }
 
 .section-heading p {
@@ -821,7 +827,7 @@ img {
 .footer {
   padding: 30px 0 40px;
   text-align: center;
-  color: #000;
+  color: #fff;
   font-size: 0.95rem;
 }
 

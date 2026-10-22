@@ -32,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
       return `
         <figure class="gallery-item">
           <img src="${src}" alt="${alt}" loading="lazy">
-          <figcaption class="gallery-label">${title}</figcaption>
         </figure>
       `;
     }).join('');
